@@ -23,36 +23,23 @@
 </div>
 <br>
 
-- 👋 你好, 我是 **@dakelong**, 一名热衷于用代码解决问题的软件工程师。
-- 💡 我对 **AI/ML、高性能计算和系统架构** 领域有着浓厚的兴趣。
-- 📚 目前正在深入学习 **Rust、eBPF 和 Web3** 技术。
+- 👋 你好, 我是 **@dakelong**。
+- 💡 我对 **AI, 大模型, 机器人** 领域有着浓厚的兴趣。
+- 📚 目前正在深入学习 **Vue、JavaScript 和 Web3** 技术。
 - 🌱 喜欢探索新的技术栈，并乐于将所学分享给他人。
 - 💞️ 我期望能参与到 **有影响力且技术领先的开源项目** 中。
-- 📫 如何联系我: **[填写你的邮箱@example.com](mailto:填写你的邮箱@example.com)**。
-- ⚡ 有趣的事: 我是桌游爱好者，也是一个业余摄影师！
+- 📫 如何联系我: **[填写你的邮箱@example.com](mailto:72520368@cityu-dg.edu.cn)**。
 
 ---
 
 ### 💻 我的技能栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,python,java,kubernetes,docker,aws,gcp,azure,prometheus,grafana,kafka,nginx,mysql,postgres,mongodb,redis,git,linux,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,linux,vscode&theme=dark" alt="Skills" />
 </p>
 
 ---
 
-### 🏆 GitHub 荣誉与数据
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dakelong&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakelong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=zh-cn&layout=compact" alt="dakelong's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakelong&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=zh-cn" alt="dakelong's Top Languages" width="48%"/>
-</div>
-
----
 
 ### 🌟 精选项目 (My Awesome Projects)
 
