@@ -56,7 +56,7 @@
 <h2 align="center">📝 最新博客文章</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [从Hadoop环境搭建到MapReduce词频统计与KMeans分类]([https://example.com](https://blog.csdn.net/weixin_65863790/article/details/151904601?spm=1001.2014.3001.5501))
+- [从Hadoop环境搭建到MapReduce词频统计与KMeans分类](https://blog.csdn.net/weixin_65863790/article/details/151904601?spm=1001.2014.3001.5501)
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 以上内容会自动更新（需配置 GitHub Actions 抓取 RSS）
