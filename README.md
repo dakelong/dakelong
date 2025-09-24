@@ -11,10 +11,7 @@
 
 ---
 
-<!-- 头像 + 简介 -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius:50%;" />
-</p>
+<!--简介 -->
 
 <h2 align="center">👨‍💻 关于我</h2>
 
@@ -39,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dakelong&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakelong&layout=compact&theme=radical" height="180" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakelong&layout=compact&theme=radical" height="180" /> -->
 </p>
 
 <p align="center">
@@ -59,9 +56,7 @@
 <h2 align="center">📝 最新博客文章</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [示例文章 1](https://example.com)
-- [示例文章 2](https://example.com)
-- [示例文章 3](https://example.com)
+- [从Hadoop环境搭建到MapReduce词频统计与KMeans分类]([https://example.com](https://blog.csdn.net/weixin_65863790/article/details/151904601?spm=1001.2014.3001.5501))
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 以上内容会自动更新（需配置 GitHub Actions 抓取 RSS）
