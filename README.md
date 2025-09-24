@@ -28,7 +28,7 @@
 - 📚 目前正在深入学习 **Vue、JavaScript 和 Web3** 技术。
 - 🌱 喜欢探索新的技术栈，并乐于将所学分享给他人。
 - 💞️ 我期望能参与到 **有影响力且技术领先的开源项目** 中。
-- 📫 如何联系我: **[填写你的邮箱@example.com](mailto:72520368@cityu-dg.edu.cn)**。
+- 📫 如何联系我: **72520368@cityu-dg.edu.cn(mailto:72520368@cityu-dg.edu.cn)**。
 
 ---
 
