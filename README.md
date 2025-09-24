@@ -1,85 +1,97 @@
-<div align="center">
-  <a href="https://github.com/dakelong">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" alt="Coding is fun" width="800"/>
-  </a>
-  <br>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/Readme-Work.svg" alt="Work In Progress" width="400"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=%E4%BD%A0%E5%A5%BD%2C+%E6%88%91%E6%98%AF+dakelong+%F0%9F%91%8B;%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E7%94%A8%E4%BB%A3%E7%A0%81%E5%88%9B%E9%80%A0%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD!" alt="Typing SVG" />
-</div>
+<!-- 个人主页 README.md for dakelong -->
 
-<br>
+<!-- 顶部欢迎 Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&lines=你好，我是+Dakelong+👋;欢迎来到我的+GitHub+主页;持续学习·分享·创造中🚀" alt="Typing SVG" />
+</p>
 
-<div align="center">
+---
+
+<!-- 头像 + 简介 -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius:50%;" />
+</p>
+
+<h2 align="center">👨‍💻 关于我</h2>
+
+- 🔭 我正在探索 **人工智能 / 生物医学工程 / 数据科学**  
+- 🌱 正在学习 **深度学习 · Python · 可视化**  
+- ✨ 喜欢 **开源、科研与动手实践**  
+- 💬 欢迎讨论：AI · 机器人 · 大模型  
+- 📫 联系我: **dakelong@example.com**  
+- 🌍 也活跃于知乎、博客与科研社区  
+
+---
+
+<h2 align="center">🛠 技能栈</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,matlab,git,github,linux,vscode,html,css,js,vue,react" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub 数据</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakelong&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakelong&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dakelong&theme=tokyonight&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
+<h2 align="center">🔥 活跃图表</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<h2 align="center">📝 最新博客文章</h2>
+
+<!-- BLOG-POST-LIST:START -->
+- [示例文章 1](https://example.com)
+- [示例文章 2](https://example.com)
+- [示例文章 3](https://example.com)
+<!-- BLOG-POST-LIST:END -->
+
+> 🔄 以上内容会自动更新（需配置 GitHub Actions 抓取 RSS）
+
+---
+
+<h2 align="center">🎉 趣味动图</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
+</p>
+
+---
+
+<h2 align="center">📫 联系方式</h2>
+
+<p align="center">
+  <a href="mailto:dakelong@example.com"><img src="https://img.shields.io/badge/Email-dakelong@example.com-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/Zhihu-知乎-informational?style=for-the-badge&logo=zhihu" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-领英-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+<h2 align="center">👀 访客统计</h2>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dakelong&style=for-the-badge&color=brightgreen" alt="访客数" />
   <img src="https://img.shields.io/badge/Status-Actively%20Coding-blueviolet?style=for-the-badge&logo=github" alt="状态" />
-</div>
-
----
-
-### 🚀 关于我
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;"/>
-</div>
-<br>
-
-- 👋 你好, 我是 **@dakelong**。
-- 💡 我对 **AI, 大模型, 机器人** 领域有着浓厚的兴趣。
-- 📚 目前正在深入学习 **Vue、JavaScript 和 Web3** 技术。
-- 🌱 喜欢探索新的技术栈，并乐于将所学分享给他人。
-- 💞️ 我期望能参与到 **有影响力且技术领先的开源项目** 中。
-- 📫 如何联系我: **72520368@cityu-dg.edu.cn(mailto:72520368@cityu-dg.edu.cn)**。
-
----
-
-### 💻 我的技能栈
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,linux,vscode&theme=dark" alt="Skills" />
 </p>
 
 ---
 
-
-### 🌟 精选项目 (My Awesome Projects)
-
 <p align="center">
-  <a href="https://github.com/dakelong/your-amazing-project-1" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dakelong&repo=your-amazing-project-1&theme=tokyonight&locale=zh-cn&show_icons=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/dakelong/your-cool-project-2" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dakelong&repo=your-cool-project-2&theme=tokyonight&locale=zh-cn&show_icons=true" alt="Project 2" />
-  </a>
-    <a href="https://github.com/dakelong/your-fantastic-project-3" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dakelong&repo=your-fantastic-project-3&theme=tokyonight&locale=zh-cn&show_icons=true" alt="Project 3" />
-  </a>
+  💡“代码不仅是工具，更是思想的延伸。”  
 </p>
-
----
-
-### 📝 最新分享
-
-<details>
-<summary>⚡ 我的近期 GitHub 动态</summary>
-
-</details>
-
-<details>
-<summary>📚 我的最新博客文章</summary>
-
-</details>
-
----
-
-### 🌍 联系我 & 更多
-
-<p align="center">
-  <a href="https://www.zhihu.com/people/your-zhihu-id" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"></a>
-  <a href="https://blog.csdn.net/your-csdn-id" target="_blank"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=C&logoColor=white" alt="CSDN"></a>
-  <a href="https://twitter.com/your-twitter-id" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:2432778108@qq.com" target="_blank"><img src="https://img.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
