@@ -1,4 +1,8 @@
 <!-- 个人主页 README.md for dakelong -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
+</p>
 
 <!-- 顶部欢迎 Banner -->
 <p align="center">
@@ -18,7 +22,7 @@
 - 🌱 正在学习 **深度学习 · Python · 可视化**  
 - ✨ 喜欢 **开源、科研与动手实践**  
 - 💬 欢迎讨论：AI · 机器人 · 大模型  
-- 📫 联系我: **dakelong@example.com**  
+- 📫 联系我: **72520368@cityu-dg.edu.cn**  
 - 🌍 也活跃于知乎、博客与科研社区  
 
 ---
@@ -26,7 +30,7 @@
 <h2 align="center">🛠 技能栈</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,matlab,git,github,linux,vscode,html,css,js,vue,react" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,matlab,git,github,linux,vscode,html,css,js,vue" />
 </p>
 
 ---
@@ -62,23 +66,14 @@
 
 > 🔄 以上内容会自动更新（需配置 GitHub Actions 抓取 RSS）
 
----
-
-<h2 align="center">🎉 趣味动图</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
-</p>
 
 ---
 
 <h2 align="center">📫 联系方式</h2>
 
 <p align="center">
-  <a href="mailto:dakelong@example.com"><img src="https://img.shields.io/badge/Email-dakelong@example.com-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:72520368@cityu-dg.edu.cn"><img src="https://img.shields.io/badge/Email-dakelong@example.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/Zhihu-知乎-informational?style=for-the-badge&logo=zhihu" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-领英-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
