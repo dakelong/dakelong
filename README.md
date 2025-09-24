@@ -70,18 +70,6 @@
 
 ---
 
-### 📈 WakaTime 代码时长统计 (可选)
-
-<details>
-<summary>点击查看我最近一周的编码活动详情 (需配置 WakaTime)</summary>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dakelong&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dakelong&langs_count=5&theme=tokyonight&hide_border=true&layout=compact&hide_title=true&custom_title=Top%20Languages" alt="WakaTime Top Languages" />
-</div>
-</details>
-
----
-
 ### 📝 最新分享
 
 <details>
@@ -109,9 +97,3 @@
 
 ---
 
-### 😂 每日一笑 (来自 API)
-
-```markdown
-<div align="center">
-  <img src="[https://readme-jokes.vercel.app/api?theme=vue](https://readme-jokes.vercel.app/api?theme=vue)" alt="编程笑话" />
-</div>
