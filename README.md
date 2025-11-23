@@ -1,87 +1,93 @@
-<!-- 个人主页 README.md for dakelong -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+World!+👋;I+build+stuff+that+breaks+(sometimes);Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
+</div>
 
-<!-- 顶部欢迎 Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&lines=你好，我是+Dakelong+👋;欢迎来到我的+GitHub+主页;持续学习·分享·创造中🚀" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dakelong&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="profile views" />
+</div>
 
 ---
 
-<!--简介 -->
+### 👨‍💻 关于我 (The Human Behind the Code)
 
-<h2 align="center">👨‍💻 关于我</h2>
+<table align="center">
+  <tr>
+    <td align="left" width="60%">
+      
+> ❝ Code is like humor. When you have to explain it, it’s bad. ❞
 
-- 🔭 我正在探索 **人工智能 / 生物医学工程 / 数据科学**  
-- 🌱 正在学习 **深度学习 · Python · 可视化**  
-- ✨ 喜欢 **开源、科研与动手实践**  
-- 💬 欢迎讨论：AI · 机器人 · 大模型  
-- 📫 联系我: **72520368@cityu-dg.edu.cn**  
-- 🌍 也活跃于知乎、博客与科研社区  
+- 🔭 我目前正在专注于 **[填写你正在研究的领域，如：云原生/AI/前端架构]**
+- 🌱 我正在学习 **Rust / WebAssembly / System Design**
+- 👯 我希望能与大家在 **开源工具库 / 开发者效率工具** 方面合作
+- 💬 问我关于 **React, Python, 或者如何煮一杯完美的咖啡**
+- ⚡ 趣事: **我曾经为了修复一个 bug 熬夜，最后发现是拼写错误。**
+- 📫 联系方式: [Email](mailto:你的邮箱) | [Blog](你的博客链接)
+
+    </td>
+    <td align="center" width="40%">
+      <img src="https://github-profile-trophy.vercel.app/?username=dakelong&theme=flat&no-frame=true&no-bg=true&margin-w=4" width="400" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">🛠 技能栈</h2>
+### 🛠️ 军火库 (Tech Stack & Arsenal)
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+**Tools & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 战斗数据 (Stats & Analytics)
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dakelong&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakelong&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github.com/dakelong/dakelong/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+### 🎵 正在写码时的 BGM (Vibe Check)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,matlab,git,github,linux,vscode,html,css,js,vue" />
+  <a href="https://spotify.com">
+    <img src="https://img.shields.io/badge/Currently_Listening-LoFi_Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
 </p>
 
----
-
-<h2 align="center">📊 GitHub 数据</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakelong&show_icons=true&theme=radical" height="180" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakelong&layout=compact&theme=radical" height="180" /> -->
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dakelong&theme=tokyonight&row=1&column=6" alt="trophies" />
-</p>
-
----
-
-<h2 align="center">🔥 活跃图表</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<h2 align="center">📝 最新博客文章</h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [从Hadoop环境搭建到MapReduce词频统计与KMeans分类](https://blog.csdn.net/weixin_65863790/article/details/151904601?spm=1001.2014.3001.5501)
-<!-- BLOG-POST-LIST:END -->
-
-> 🔄 以上内容会自动更新（需配置 GitHub Actions 抓取 RSS）
-
-
----
-
-<h2 align="center">📫 联系方式</h2>
-
-<p align="center">
-  <a href="mailto:72520368@cityu-dg.edu.cn"><img src="https://img.shields.io/badge/Email-dakelong@example.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/Zhihu-知乎-informational?style=for-the-badge&logo=zhihu" /></a>
-</p>
-
----
-
-<h2 align="center">👀 访客统计</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dakelong&style=for-the-badge&color=brightgreen" alt="访客数" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Coding-blueviolet?style=for-the-badge&logo=github" alt="状态" />
-</p>
-
----
-
-<p align="center">
-  💡“代码不仅是工具，更是思想的延伸。”  
+  <i>Let's connect and build something awesome together!</i> 🚀
 </p>
